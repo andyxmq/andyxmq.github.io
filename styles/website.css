@@ -40,5 +40,5 @@
 }
 
 .page-inner{
-    width: 95%;
+    width: 95% !important;
 }
