@@ -41,4 +41,5 @@
 
 .page-inner{
     width: 95% !important;
+    max-width: 95%;
 }
